@@ -45,7 +45,7 @@ gulp.task('nodemon', function(cb) {
 
 gulp.task('browser-sync', ['nodemon'], function() {
   browserSync({
-    proxy: 'http://localhost:3000',
+    proxy: 'http://localhost:1337',
     port: 4000,
     browser: ['chrome']
   });
