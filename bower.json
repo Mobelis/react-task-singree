@@ -1,0 +1,21 @@
+{
+  "name": "js-task-singree",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Emil Dudnyk <mobelis.job@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
